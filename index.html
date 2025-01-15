@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Inter:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>JS Game</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="container__conteudo">
+            <img src="./img/robot.png" alt="robô mergulhador" class="container__imagem-robo" />
+            <div class="inputText">
+                <p id="tentativasRestantes">Tentativas Tentadas: 0</p>
+                <label for="userInput">
+                    <select name="userInput" id="selectUserInput">
+                        <option value="1,10">Tente de 1 a 10</option>
+                        <option value="1,100">Tente de 1 a 100</option>
+                        <option value="1,1000">Tente de 1 a 1000</option>
+                    </select>
+                    <input type="number" id="userInput" placeholder="Digite um numero:">
+                    <button id="submitUserInput">Enviar</button>
+                </label>
+            </div>
+            <div class="container__informacoes">
+                <img src="./img/trophy.png" alt="ícone de um troféu" />
+                <div class="container__texto">
+                    <h1>Você <span class="container__texto-azul">acertou!</span></h1>
+                    <h2>Você descobriu o número secreto!</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="app.js" defer></script>
+</body>
+
+</html>
