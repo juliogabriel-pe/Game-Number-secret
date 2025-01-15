@@ -64,7 +64,7 @@ Este é um mini jogo interativo onde o objetivo é adivinhar o número secreto g
 2. Abra o arquivo HTML em um navegador.
 3. Jogue e divirta-se!
 ### ou
-1. Clique no botão verde "Code".
+1. Clique no botão verde(Clique no botão verde (para pessoas com daltonismo: a cor pode parecer marrom, cinza ou um tom de amarelo) "Code".
 2. Clique em "Download ZIP".
 3. Extraia o arquivo.
 4. Abra o arquivo HTML em um navegador.
