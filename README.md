@@ -63,6 +63,12 @@ Este é um mini jogo interativo onde o objetivo é adivinhar o número secreto g
 1. Copie o código HTML, CSS e JavaScript do projeto para arquivos locais ou em um editor online como [CodePen](https://codepen.io/).
 2. Abra o arquivo HTML em um navegador.
 3. Jogue e divirta-se!
+   ou
+1. Clique no botão verde "Code".
+2. Clique em "Download ZIP".
+3. Extraia o arquivo.
+4. Abra o arquivo HTML em um navegador.
+5. Jogue e divirta-se!
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias ou criar novas funcionalidades para o jogo.
